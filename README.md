@@ -9,27 +9,45 @@ The dataset used in this project is a large collection of customer information r
 
 
 ID: Unique identifier for each customer.
+
 Marital Status: The marital status of the customer.
+
 Gender: The gender of the customer.
+
 Income: The income of the customer.
+
 Children: The number of children the customer has.
+
 Education: The educational background of the customer.
+
 Occupation: The occupation of the customer.
+
 Home Owner: Whether the customer owns a home or not.
+
 Cars: The number of cars owned by the customer.
+
 Commute Distance: The distance the customer commutes to work.
+
 Region: The region where the customer resides.
+
 Age: The age of the customer.
+
 Age Brackets: Categorization of customers based on age groups.
+
 Purchased Bike: Whether the customer has purchased a bike or not.
+
 The dataset is stored in an Excel file format (.xlsx), allowing easy manipulation and analysis using Excel or other spreadsheet software.
 
+
 Dashboard
+
 The main focus of this project is to create an interactive dashboard that visualizes the customer data and provides meaningful insights. The dashboard aims to answer important questions and assist in decision-making related to bike sales. Some of the key functionalities and visualizations include:
 
 **Overview**: A summary of the total number of customers, gender distribution, income distribution, and other relevant metrics.
 
+
 Sales Performance: Visualizations showcasing sales performance metrics, such as total sales, revenue, and average sales per customer.
+
 
 Customer Segmentation: Segmenting customers based on various factors like gender, age, income, and other relevant features, providing insights into different customer segments.
 

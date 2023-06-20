@@ -1,8 +1,12 @@
-Bike Sales Dashboard
+**Bike Sales Dashboard
+**
+
 Welcome to the Bike Sales Dashboard project! This repository contains a comprehensive dataset of customers, including various features such as ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Age Brackets, and Purchased Bike. The goal of this project is to utilize this dataset and create an interactive dashboard that provides valuable insights into the customers and their sales.
 
 Dataset
+
 The dataset used in this project is a large collection of customer information related to bike sales. It includes the following features:
+
 
 ID: Unique identifier for each customer.
 Marital Status: The marital status of the customer.
@@ -23,19 +27,28 @@ The dataset is stored in an Excel file format (.xlsx), allowing easy manipulatio
 Dashboard
 The main focus of this project is to create an interactive dashboard that visualizes the customer data and provides meaningful insights. The dashboard aims to answer important questions and assist in decision-making related to bike sales. Some of the key functionalities and visualizations include:
 
-Overview: A summary of the total number of customers, gender distribution, income distribution, and other relevant metrics.
+**Overview**: A summary of the total number of customers, gender distribution, income distribution, and other relevant metrics.
+
 Sales Performance: Visualizations showcasing sales performance metrics, such as total sales, revenue, and average sales per customer.
+
 Customer Segmentation: Segmenting customers based on various factors like gender, age, income, and other relevant features, providing insights into different customer segments.
+
 Geographic Analysis: Mapping the customers based on their geographical information, allowing identification of areas with high customer concentration and sales potential.
+
 Trends and Patterns: Analyzing trends and patterns in customer behavior, such as purchasing patterns based on age, gender, income, and other variables.
+
 Usage
+
 To use this project and visualize the Bike Sales Dashboard, follow these steps:
+
 
 Clone the repository to your local machine using the command:
 
 bash
 Copy code
+
 git clone https://github.com/your-username/Bike-Sales-Dashboard.git
+
 Open the Excel file containing the dataset using Microsoft Excel or any other spreadsheet software.
 
 Launch the dashboard by opening the "dashboard.html" file in a web browser of your choice.
@@ -46,6 +59,7 @@ Dependencies
 This project does not have any specific dependencies beyond having a web browser capable of rendering HTML, CSS, and JavaScript. No additional libraries or frameworks are required.
 
 Contributing
+
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
 Fork the repository.
